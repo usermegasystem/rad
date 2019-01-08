@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/01/08 07:18:37.012,=C:\Users\ROMEO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/08 07:21:27.734,C:\Users\ROMEO\Desktop\Rad Proyeto git\rad\Principal.pas=C:\Users\ROMEO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/08 07:21:27.734,C:\Users\ROMEO\Desktop\Rad Proyeto git\rad\Principal.dfm=C:\Users\ROMEO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/01/08 07:21:36.530,C:\Users\ROMEO\Desktop\Rad Proyeto git\rad\Project.dproj=C:\Users\ROMEO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

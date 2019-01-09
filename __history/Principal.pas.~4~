@@ -12,7 +12,6 @@ type
     Edit1: TEdit;
     DBEdit1: TDBEdit;
     DBListBox1: TDBListBox;
-    Button2: TButton;
   private
     { Private declarations }
   public

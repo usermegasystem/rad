@@ -14,8 +14,8 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object Button1: TButton
-    Left = 9
-    Top = 162
+    Left = 112
+    Top = 176
     Width = 233
     Height = 129
     Caption = 'Button1'
@@ -43,13 +43,5 @@ object Form1: TForm1
     Height = 97
     ItemHeight = 13
     TabOrder = 3
-  end
-  object Button2: TButton
-    Left = 248
-    Top = 176
-    Width = 233
-    Height = 129
-    Caption = 'Button1'
-    TabOrder = 4
   end
 end

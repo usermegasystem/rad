@@ -36,12 +36,4 @@ object Form1: TForm1
     Height = 21
     TabOrder = 2
   end
-  object DBListBox1: TDBListBox
-    Left = 48
-    Top = 59
-    Width = 121
-    Height = 97
-    ItemHeight = 13
-    TabOrder = 3
-  end
 end
